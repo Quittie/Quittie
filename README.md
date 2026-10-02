@@ -6,7 +6,7 @@ I work on mechanical design, 3D-printed components and robot simulations. My pro
 
 I use this profile to document the designs, files and results of my work. Some projects were completed individually and others with a team. Each repository explains the project scope and my contribution.
 
-I’m looking for an engineering internship from March 2027 in the Eupen–Membach–Baelen area. I can commute across a wider region, including Liège in Belgium and Aachen in Germany, and would welcome the opportunity to continue working with the company afterwards.
+I’m looking for an engineering internship from March 2027 as part of my master’s programme. I would welcome the opportunity to continue working with the company afterwards.
 
 ## Selected projects
 
